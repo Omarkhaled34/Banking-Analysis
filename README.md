@@ -12,6 +12,8 @@ The system is built to:
 4-Evaluate loan portfolio performance
 5-Measure card issuance and lifecycle trends
 6-Assess customer support effectiveness
+
+Banking Dashboard
 <img width="1549" height="731" alt="image" src="https://github.com/user-attachments/assets/cb17fe85-7196-4c52-9996-851112dec651" />
 
 
